@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Difference Array/3347. Maximum Frequency of an Element After Performing Operations II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sliding Window/3347. Maximum Frequency of an Element After Performing Operations II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS/3493. Properties Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Union Find/684. Redundant Connection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
       <workItem from="1760754059336" duration="989000" />
       <workItem from="1760916563059" duration="62000" />
       <workItem from="1761012983212" duration="980000" />
+      <workItem from="1761178936223" duration="80000" />
     </task>
     <servers />
   </component>
