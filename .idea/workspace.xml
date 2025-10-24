@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BFS/1345. Jump Game IV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS/1306. Jump Game III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/1340. Jump Game V.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/403. Frog Jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/45. Jump Game II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/55. Jump Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Union Find/990. Satisfiability of Equality Equations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Union Find/684. Redundant Connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Union Find/684. Redundant Connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enumeration/2048. Next Greater Numerically Balanced Number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +70,7 @@
       <workItem from="1761012983212" duration="980000" />
       <workItem from="1761178936223" duration="80000" />
       <workItem from="1761195631854" duration="965000" />
+      <workItem from="1761265559957" duration="79000" />
     </task>
     <servers />
   </component>
