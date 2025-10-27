@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="" />
+    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BFS/778. Swim in Rising Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/778. Swim in Rising Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/2680. Maximum OR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap/1942. The Number of the Smallest Unoccupied Chair.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ncwbr/PycharmProjects/Leetcode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ncwbr/PycharmProjects/Leetcode/Binary Search&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ncwbr\PycharmProjects\Leetcode\Binary Search" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +85,8 @@
       <workItem from="1761524644180" duration="122000" />
       <workItem from="1761525245189" duration="1069000" />
       <workItem from="1761541848571" duration="75000" />
+      <workItem from="1761596015945" duration="719000" />
+      <workItem from="1761608748994" duration="318000" />
     </task>
     <servers />
   </component>
