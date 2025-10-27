@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Greedy/3723. Maximize Sum of Squares of Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,7 @@
       <workItem from="1761276524562" duration="57000" />
       <workItem from="1761448294212" duration="1406000" />
       <workItem from="1761524644180" duration="122000" />
-      <workItem from="1761525245189" duration="424000" />
+      <workItem from="1761525245189" duration="1069000" />
     </task>
     <servers />
   </component>
