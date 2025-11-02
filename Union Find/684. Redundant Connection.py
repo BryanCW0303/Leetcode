@@ -1,7 +1,7 @@
 from typing import List
 
 class UnionFind:
-    __slots__ = 'p', 'size'
+    __slots__ = ('p', 'size')
 
     def __init__(self, n: int):
         self.p = list(range(n))
