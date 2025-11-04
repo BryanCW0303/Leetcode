@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/1262. Greatest Sum Divisible by Three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2222. Number of Ways to Select Buildings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2826. Sorting Three Groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap/295. Find Median from Data Stream.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,8 @@
       <workItem from="1762081015448" duration="86000" />
       <workItem from="1762116749792" duration="888000" />
       <workItem from="1762135419673" duration="170000" />
-      <workItem from="1762220560498" duration="1626000" />
+      <workItem from="1762220560498" duration="1684000" />
+      <workItem from="1762231230652" duration="1234000" />
     </task>
     <servers />
   </component>
