@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Search/2528. Maximize the Minimum Powered City.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS/3607. Power Grid Maintenance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/135. Candy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash Table/205. Isomorphic Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash Table/49. Group Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/3742. Maximum Path Score in a Grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +102,8 @@
       <workItem from="1762418870857" duration="639000" />
       <workItem from="1762537244760" duration="105000" />
       <workItem from="1762538354495" duration="27000" />
+      <workItem from="1762539889293" duration="71000" />
+      <workItem from="1762723306641" duration="642000" />
     </task>
     <servers />
   </component>
