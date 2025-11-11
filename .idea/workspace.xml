@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="" />
+    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Matrix/54. Spiral Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +106,8 @@
       <workItem from="1762723306641" duration="724000" />
       <workItem from="1762806817360" duration="31000" />
       <workItem from="1762810760837" duration="624000" />
+      <workItem from="1762903052537" duration="254000" />
+      <workItem from="1762903380683" duration="20000" />
     </task>
     <servers />
   </component>
