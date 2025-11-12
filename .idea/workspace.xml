@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Matrix/54. Spiral Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/233. Number of Digit One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2376. Count Special Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2719. Count of Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/600. Non-negative Integers without Consecutive Ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/902. Numbers At Most N Given Digit Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +112,10 @@
       <workItem from="1762810760837" duration="624000" />
       <workItem from="1762903052537" duration="254000" />
       <workItem from="1762903380683" duration="20000" />
+      <workItem from="1762903433036" duration="60000" />
+      <workItem from="1762904906071" duration="31000" />
+      <workItem from="1762906264741" duration="41000" />
+      <workItem from="1762934422280" duration="1750000" />
     </task>
     <servers />
   </component>
