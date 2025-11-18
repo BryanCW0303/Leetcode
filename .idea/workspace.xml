@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/233. Number of Digit One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2376. Count Special Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/2719. Count of Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/600. Non-negative Integers without Consecutive Ones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/902. Numbers At Most N Given Digit Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS/1654. Minimum Jumps to Reach Home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/3748. Count Stable Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/3747. Count Distinct Integers After Removing Zeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +114,8 @@
       <workItem from="1762904906071" duration="31000" />
       <workItem from="1762906264741" duration="41000" />
       <workItem from="1762934422280" duration="1750000" />
+      <workItem from="1762997357430" duration="116000" />
+      <workItem from="1763424686800" duration="87000" />
     </task>
     <servers />
   </component>
