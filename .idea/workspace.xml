@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="" />
+    <list default="true" id="c17ec2f7-16fc-41c8-a05c-bece8a0191d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BFS/127. Word Ladder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +116,8 @@
       <workItem from="1763424686800" duration="87000" />
       <workItem from="1763501721840" duration="819000" />
       <workItem from="1763531691754" duration="602000" />
+      <workItem from="1763590939765" duration="69000" />
+      <workItem from="1763672548738" duration="43000" />
     </task>
     <servers />
   </component>
